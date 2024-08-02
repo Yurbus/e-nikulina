@@ -2,6 +2,7 @@
 
 .card-default {
     -webkit-backdrop-filter: blur(32px);
+            backdrop-filter: blur(32px);
 }
 .text-uppercase img {
     width: 100%;
