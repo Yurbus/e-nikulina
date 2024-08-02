@@ -119,9 +119,13 @@
     }
     .card-list {
         margin-top: 40px;
+        margin-left: 0;
     }
     .social {
         justify-content: center;
+    }
+    .body-left{
+        width: 100%;
     }
 }
 
