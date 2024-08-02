@@ -147,7 +147,7 @@
     .cover::before {
         content: "";
         background-image: url(../img/1st-mob.png);
-        height: 150vh;
+        height: 110vh;
     }
     .cover:after {
         height: 150%;
