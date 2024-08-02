@@ -149,11 +149,14 @@
         background-image: url(../img/1st-mob.png);
         height: 150vh;
     }
+    .cover:after {
+        height: 150%;
+    }
     .cover-body {
         padding-top: 15rem;
     }
     .cover-footer {
-        padding: 26rem 0 3rem;
+        padding: 20rem 0 3rem;
     }    
     .p-descr {
         font-size: 14px;
