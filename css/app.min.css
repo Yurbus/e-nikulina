@@ -147,6 +147,7 @@
     .cover::before {
         content: "";
         background-image: url(../img/1st-mob.png);
+        height: 110vh;
     }
     .cover-body {
         padding-top: 15rem;
