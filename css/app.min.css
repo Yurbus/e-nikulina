@@ -170,9 +170,9 @@
     .h1_date {
         margin-top: 20px;
     }
-    .h1 {
+    /* .h1 {
         font-size: calc(0.675rem + 1.5vw);
-    }
+    } */
     .cover-inner .btn {
         margin-top: 0.5rem;
     }    
