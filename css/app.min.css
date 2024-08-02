@@ -142,3 +142,16 @@
         gap: 20px;
     }
 }
+
+@media (max-width:540px) {
+    .cover::before {
+        content: "";
+        background-image: url(../img/1st-mob.png);
+    }
+    .cover-body {
+        padding-top: 15rem;
+    }
+    .cover-footer {
+        padding: 16rem 0 3rem;
+    }    
+}
